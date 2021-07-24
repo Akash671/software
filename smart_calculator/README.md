@@ -1,4 +1,4 @@
-# Covid-19 test application 
+# smart calculator app
 app image
 <br>
 ![image](https://github.com/Akash671/software/blob/main/smart_calculator/Screenshot_20210725_002558_ru.iiec.pydroid3.jpg)
