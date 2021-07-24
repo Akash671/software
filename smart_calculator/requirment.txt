@@ -1,0 +1,8 @@
+1)
+install pydroid3 app from google play store in your phone
+
+2)
+select smartcalculator file in pydroid editor and run it.
+
+3)
+end
