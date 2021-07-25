@@ -3,13 +3,13 @@ app image
 <br>
 ![image](https://github.com/Akash671/software/blob/main/smart_calculator/Screenshot_20210725_002558_ru.iiec.pydroid3.jpg)
 <br>
-database image
+image
 <br>
 ![image](https://github.com/Akash671/software/blob/main/smart_calculator/Screenshot_20210725_002629_ru.iiec.pydroid3.jpg)
 <br>
 ![image](https://github.com/Akash671/software/blob/main/smart_calculator/Screenshot_20210725_002638_ru.iiec.pydroid3.jpg)
 <br>
-Machine Learning based application 
+Python based android application 
 
 Created date:-
 
