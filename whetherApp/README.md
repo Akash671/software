@@ -1,5 +1,5 @@
 # About App
-# We are use api to fetch real time data of whether 
+# We are using api method to fetch real time data of whether 
 
 
 #App Image
