@@ -1,0 +1,15 @@
+# 1). Install pydroid app from google play store
+
+# 2). Open pydroid app on android phone and create new python file on pydroid app
+
+# 3). Copy the whetherApp.py file data in your python file of pydroid app in android phone
+
+# 4). Click on Run button
+
+# 5). Now in few secounds the whether app window will be open
+
+# 6). Enter details
+
+# 7). Click on whether button
+
+# 8). After few secounds you can see whether information of the given city
