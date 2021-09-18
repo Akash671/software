@@ -50,14 +50,14 @@ June 2021
 
 #App Image
 <br>
-![image](https://github.com/Akash671/software/blob/main/whetherApp/appImage1.jpg)
+![image](https://github.com/Akash671/software/blob/main/weatherApp/appImage1.jpg)
 <br>
 # Enter city name and country name and click on whether button 
 # After you can see the details of whether on screen
 
 image
 <br>
-![image](https://github.com/Akash671/software/blob/main/whetherApp/appImage2.jpg)
+![image](https://github.com/Akash671/software/blob/main/weatherApp/appImage2.jpg)
 <br>
 Python based android application 
 
