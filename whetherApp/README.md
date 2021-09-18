@@ -1,17 +1,17 @@
 # About App
-# We are using api method to fetch real time data of whether 
+# We are using api method to fetch real time data of weather 
 
 
 #App Image
 <br>
-![image](https://github.com/Akash671/software/blob/main/whetherApp/appImage1.jpg)
+![image](https://github.com/Akash671/software/blob/main/weatherApp/appImage1.jpg)
 <br>
 # Enter city name and country name and click on whether button 
-# After you can see the details of whether on screen
+# After you can see the details of weather on screen
 
 image
 <br>
-![image](https://github.com/Akash671/software/blob/main/whetherApp/appImage2.jpg)
+![image](https://github.com/Akash671/software/blob/main/weatherApp/appImage2.jpg)
 <br>
 Python based android application 
 
