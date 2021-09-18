@@ -44,7 +44,7 @@ Created date:-
 June 2021
 
 
-# Wheather App
+# Weather App
 # We are using api method to fetch real time data of weather 
 
 
