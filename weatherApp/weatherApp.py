@@ -152,7 +152,7 @@ def whether():
 
 
 #buton
-Button(wind, text="Whether", font=('Helvetica', 8, 'bold'), bg='blue',fg="yellow", 
+Button(wind, text="Weather", font=('Helvetica', 8, 'bold'), bg='blue',fg="yellow", 
        width=9, height=3,bd=10,command=whether).place(x=10, y=335)
        
 
