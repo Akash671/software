@@ -44,16 +44,16 @@ Created date:-
 June 2021
 
 
-# Whether App
-# We are using api method to fetch real time data of whether 
+# Wheather App
+# We are using api method to fetch real time data of weather 
 
 
 #App Image
 <br>
 ![image](https://github.com/Akash671/software/blob/main/weatherApp/appImage1.jpg)
 <br>
-# Enter city name and country name and click on whether button 
-# After you can see the details of whether on screen
+# Enter city name and country name and click on weather button 
+# After you can see the details of weather on screen
 
 image
 <br>
