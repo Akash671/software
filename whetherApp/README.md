@@ -6,7 +6,7 @@
 <br>
 ![image](https://github.com/Akash671/software/blob/main/weatherApp/appImage1.jpg)
 <br>
-# Enter city name and country name and click on whether button 
+# Enter city name and country name and click on weather button 
 # After you can see the details of weather on screen
 
 image
