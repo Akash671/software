@@ -1,4 +1,4 @@
-# smart calculator app
+# smart calculator app mini python project
 app image
 <br>
 ![image](https://github.com/Akash671/software/blob/main/smart_calculator/Screenshot_20210725_002558_ru.iiec.pydroid3.jpg)
