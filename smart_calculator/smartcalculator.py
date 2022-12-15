@@ -1,3 +1,10 @@
+#about @developer
+"""
+Developer : @akash
+Associated with Moradabad Institute Of Technology(MIT)
+"""
+
+
 #---------------------------------
 from tkinter import *
 import tkinter as tk
